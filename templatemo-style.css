@@ -460,7 +460,7 @@ a#logo {
   position:relative;
 }
 .about-img img {
-  border-radius: 50%;
+  border-radius: 100%;
   -webkit-box-shadow: 0 0 40px rgba(0,0,0,.3);
   box-shadow: 0 0 40px rgba(0,0,0,.3);
 }
