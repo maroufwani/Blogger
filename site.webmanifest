@@ -1,0 +1,23 @@
+   {
+    "name": "LPU Verto",
+    "short_name": "LPU Verto",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEp8AblpO5ohUktxYCNo4bsBGL55KaRH3ZPkROlD2I4LJ0cvjhMVE-SISwikiDx6IQlw3GniqCBRO5kMEvIAtxBMzmUsGKn6eHz2bbUX-sOgrjzoMyyhRjr0kxcEK7ZyndDZKuil33AzvP5nP0vwDT1duxef3Z9e8rlAWCU08lCk0ua8TxsybAz0fInEg/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb6P3vpRPK9EcipVNC3dh7j_vyaal2ptZmQhViAlWMvNWEzwIUoknZIuGlRfVk8Yew9IonIKftBzXODRjyS9-5V42fruYRTtnq7quRfhZ81LgQH0MPGaOv3XOSINDavuoNtWrncNIpQGPwT90oZAwDQ2pgNOkT255f0rMeAkljt9vINin-i2KvrMt_U0/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.lpuverto.xyz"
+}
